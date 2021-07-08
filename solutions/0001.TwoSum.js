@@ -16,7 +16,7 @@
         }
     }
 };
-// using javascript object as a continer to remember iterated numbers
+// using javascript object as a container to remember iterated numbers
 var twoSum = function(nums, target) {
     let holdingObj = {};
     for(let j=0;j<nums.length;j++){

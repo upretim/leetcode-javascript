@@ -1,5 +1,5 @@
 # leetcode-javascript
-This repo contains frequently asked leetcode questions in Javascript
+This repo contains solutions of frequently asked leetcode questions in Javascript.
 
 | # | Title | Solution | Difficulty | Explaination|
 |---| ----- | -------- | ---------- |-------------- |
